@@ -1,9 +1,9 @@
 ## UTM-DIGITAL-OPEN-DAY
 ![UTM Digital Open Day](https://github.com/chediana4/UTM-DIGITAL-OPEN-DAY/blob/c76432a0ae42e4aeacaa2e688b5d8f90b72efe72/WhatsApp%20Image%202026-01-05%20at%2010.30.22.jpeg)<br>
-Topic : DigiTechX 6 - Oracle Academy
-Date : 28th October 2025
-Venue : UTM Digital (D07), UTM Johor Bahru.
-Event : UTM Digital Open Day
+#### Topic : DigiTechX 6 - Oracle Academy 
+#### Date : 28th October 2025 
+#### Venue : UTM Digital (D07), UTM Johor Bahru
+#### Event : UTM Digital Open Day
 
 Had an amazing experience attending the Oracle Talk by Encik Muhammad Asrul Muhammad Zain during the UTM Digital Open Day. the session provided valuable insight into the digital industry, especially on future career path and skills needed in the digital field.
 
